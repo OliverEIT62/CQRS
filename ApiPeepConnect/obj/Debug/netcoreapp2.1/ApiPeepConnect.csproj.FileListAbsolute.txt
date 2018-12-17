@@ -1,0 +1,14 @@
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.csprojAssemblyReference.cache
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.csproj.CoreCompileInputs.cache
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.RazorAssemblyInfo.cache
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.RazorAssemblyInfo.cs
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.AssemblyInfoInputs.cache
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.AssemblyInfo.cs
+C:\Projects\PeepConnect\ApiPeepConnect\bin\Debug\netcoreapp2.1\ApiPeepConnect.deps.json
+C:\Projects\PeepConnect\ApiPeepConnect\bin\Debug\netcoreapp2.1\ApiPeepConnect.runtimeconfig.json
+C:\Projects\PeepConnect\ApiPeepConnect\bin\Debug\netcoreapp2.1\ApiPeepConnect.runtimeconfig.dev.json
+C:\Projects\PeepConnect\ApiPeepConnect\bin\Debug\netcoreapp2.1\ApiPeepConnect.dll
+C:\Projects\PeepConnect\ApiPeepConnect\bin\Debug\netcoreapp2.1\ApiPeepConnect.pdb
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.RazorTargetAssemblyInfo.cache
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.dll
+C:\Projects\PeepConnect\ApiPeepConnect\obj\Debug\netcoreapp2.1\ApiPeepConnect.pdb
